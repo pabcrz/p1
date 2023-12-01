@@ -2,4 +2,5 @@
 Practica 1
 
 Linea 4
-Liena 5
+Linea 5
+Linea 6
